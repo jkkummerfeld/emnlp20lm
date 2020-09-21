@@ -6,7 +6,7 @@ This repository contains code for language modeling experiments, as described in
   Charles Welch, Rada Mihalcea \and Jonathan K. Kummerfeld
   EMNLP 2020
 
-It is based on the original version of the AWD-LSTM language model.
+It is based on the [original version](https://github.com/salesforce/awd-lstm-lm/tree/4582a1e9ecb1de177c01d01510dccd00b9abbbde) of the AWD-LSTM language model (later versions of the code had slightly different performance, so we used the original to match the original paper).
 Most of this readme file is taken from that code.
 
 ## Data preparation
